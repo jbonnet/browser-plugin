@@ -1,4 +1,4 @@
-# Learn how to build a browswr plugin
+# Learn how to build a browser plugin
 
 From [this](https://www.ibm.com/developerworks/opensource/library/os-extendchrome/index.html) I want to try and build a **(multi-)browser plugin** to (either):
 
